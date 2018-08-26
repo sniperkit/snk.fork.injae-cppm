@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(subdirectory_list_f result target_dir)
     file(GLOB children RELATIVE ${target_dir} ${target_dir}/*)
     foreach(child ${children})

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 
 set(cppm_project_dir share/${PROJECT_NAME})
 set(default_project_dir ${cppm_project_dir}/default_project)

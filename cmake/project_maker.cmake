@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(${CMAKE_CURRENT_SOURCE_DIR}/cmake/utils.cmake)
 
 function(build_binary name source dependencies)

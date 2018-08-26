@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(ExternalProject)
 
 function(auto_make_third_party library_name)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 MACRO(make_third_party_shared_lib name third_party_lib)
     message("${${third_party_lib}_INCLUDE_DIR}")
     

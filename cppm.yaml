@@ -7,7 +7,7 @@ package:
     authors: 8687lee@gmail.com InJaeLee
     type: binary
     thirdparty-repo:
-        - https://github.com/INJAE/cppm_packages.git
+        - https://github.com/sniperkit/snk.fork.injae-cppm_packages.git
         
 compiler: 
     type: clang++
